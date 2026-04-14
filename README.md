@@ -1,1 +1,1 @@
-# ls-automation
+- একটি কাস্টম `Python` স্ক্রিপ্ট যা `ls` কমান্ডকে automation করে
